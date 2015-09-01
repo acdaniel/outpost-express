@@ -10,16 +10,16 @@
     "test-cov": "istanbul cover node_modules/mocha/bin/_mocha -- --require test/support/env"
   },
   "dependencies": {
-    "debug": "^2.1.1",
-    "inflection": "^1.7.0",
-    "lodash": "^3.6.0",
-    "q": "^1.1.2"
+    "debug": "^2.2.0",
+    "inflection": "^1.7.1",
+    "lodash": "^3.10.1",
+    "q": "^1.4.1"
   },
   "peerDependencies": {
-    "passport": "^0.2.2"
+    "passport": "^0.3.0"
   },
   "devDependencies": {
-    "chai": "^1.10.0",
-    "mocha": "^2.1.0"
+    "chai": "^3.2.0",
+    "mocha": "^2.3.0"
   }
 }
